@@ -1,3 +1,10 @@
+Fixed conflict
+
 Purvi red
 Vtori red
 Treti red
+
+Purva kolona
+Vtora kolona
+Treta kolona
+>>>>>>> test2
